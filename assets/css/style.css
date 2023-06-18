@@ -1269,6 +1269,7 @@ section {
   color: #222222;
   font-size: 14px;
   text-align: center;
+  display: none;
 }
 
 #footer .credits {
